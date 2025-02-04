@@ -4,3 +4,4 @@ name = "Shin"
 is_student = True
 
 print(x + y)
+print(x - y)
