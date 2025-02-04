@@ -5,3 +5,4 @@ is_student = True
 
 print(x + y)
 print(x - y)
+print(y * x)
