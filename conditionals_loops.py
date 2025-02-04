@@ -18,6 +18,7 @@ secret_number = 5
 guess = int(input("Enter your guess number: "))
 
 while guess != secret_number:
+    guess = int(input("Enter your guess number: "))
     if guess < secret_number:
         print("Too low!")
     else:
