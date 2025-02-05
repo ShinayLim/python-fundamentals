@@ -22,3 +22,10 @@ print(numbers)
 
 numbers.remove(100)
 print(numbers)
+
+alphaNum ={
+    "one": 1,
+    "two": 2,
+    "three": 3,
+}
+print(alphaNum["two"])
