@@ -13,3 +13,6 @@ print(numbers)
 
 numbers.extend([300, 400, 25])
 print(numbers)
+
+numbers.sort()
+print(numbers)
