@@ -1,6 +1,7 @@
 file = open("Hello.txt", "r")
 
 numbers = file.readlines()
-print(numbers)
+for number in numbers:
+    print(number)
 
 file.close()
