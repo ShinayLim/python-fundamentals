@@ -1,4 +1,4 @@
-file = open("Hello.txt", "w")
+file = open("Hello.txt", "a")
 
 file.write("\nHello Philippines.")
 
