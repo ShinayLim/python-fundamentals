@@ -4,3 +4,6 @@ combo = ["Shin", "Lim", 1, 2, 3]
 
 for item in combo:
     print(item)
+    
+numbers.append(10)
+print(numbers)
