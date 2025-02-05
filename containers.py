@@ -29,3 +29,11 @@ alphaNum ={
     "three": 3,
 }
 print(alphaNum["two"])
+
+alphaNum ={
+    "one": 1,
+    "two": 2,
+    "three": 3,
+}
+for item in alphaNum:
+    print(item)
