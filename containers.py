@@ -16,3 +16,6 @@ print(numbers)
 
 numbers.sort()
 print(numbers)
+
+numbers.reverse()
+print(numbers)
