@@ -19,3 +19,6 @@ print(numbers)
 
 numbers.reverse()
 print(numbers)
+
+numbers.remove(100)
+print(numbers)
