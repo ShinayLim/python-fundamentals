@@ -37,3 +37,11 @@ alphaNum ={
 }
 for item in alphaNum:
     print(item)
+    
+alphaNum ={
+    "one": 1,
+    "two": 2,
+    "three": 3,
+}
+for item in alphaNum.keys():
+    print(alphaNum[item])
