@@ -1,5 +1,5 @@
-file = open("Hello.txt", "a")
+file = open("Hello.txt", "r")
 
-file.write("\nHello Philippines.")
+print(file.read())
 
 file.close()
