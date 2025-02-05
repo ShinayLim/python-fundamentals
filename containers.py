@@ -10,3 +10,6 @@ print(numbers)
 
 numbers.insert(1,100)
 print(numbers)
+
+numbers.extend([300, 400, 25])
+print(numbers)
