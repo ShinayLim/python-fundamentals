@@ -7,3 +7,6 @@ for item in combo:
     
 numbers.append(10)
 print(numbers)
+
+numbers.insert(1,100)
+print(numbers)
